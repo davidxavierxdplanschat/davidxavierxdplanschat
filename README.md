@@ -6,6 +6,8 @@ Transformo ideias em aplicações web. Meu portfólio na **XD Plans** reúne fer
 
 **Disponível para oportunidades remotas, projetos freelance e parcerias.**
 
+[Site profissional](https://xdplans.space) · [LinkedIn](https://www.linkedin.com/in/david-a-xavier-2a101a208/) · **Contato: +55 (11) 92626-5383**
+
 ## Explore meus projetos
 
 | Projeto | O que você pode avaliar | Código e demonstração |
