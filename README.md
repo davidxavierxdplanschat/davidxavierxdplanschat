@@ -12,6 +12,7 @@ Transformo ideias em aplicações web. Meu portfólio na **XD Plans** reúne fer
 
 | Projeto | O que você pode avaliar | Código e demonstração |
 | --- | --- | --- |
+| **Cota Clara** | Dashboard de despesas parlamentares com filtros, busca de deputados e perfis individuais. Next.js, TypeScript, Zod e dados oficiais da Câmara dos Deputados. | [Código](https://github.com/davidxavierxdplanschat/camara) |
 | **XD Barbershop** | Agendamento full stack, autenticação, perfis de acesso e proteção contra reservas simultâneas. Next.js, Express e MongoDB. | [Código](https://github.com/davidxavierxdplanschat/xd-barbershop) · [Site](https://xd-barbershop.vercel.app) |
 | **XD News** | Leitura editorial, tradução, favoritos e integração de APIs no servidor. Next.js, TypeScript, NYT e DeepL. | [Código](https://github.com/davidxavierxdplanschat/xd-news) · [Demo](https://panorama-news.vercel.app) |
 | **XD Finance** | Exploração de ativos, busca, filtros, favoritos e páginas com SEO. Next.js, TypeScript e brapi. | [Código](https://github.com/davidxavierxdplanschat/xd-finance) · [Site](https://xd-finance.vercel.app) |
